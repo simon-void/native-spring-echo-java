@@ -25,7 +25,7 @@ You should now be able to execute the native binary:
 
 ## Troubleshooting
 
-- if you get a BUILD FAILD with
+- if you get a BUILD FAILED with
 ```
 /usr/bin/ld: cannot find -lz: No such file or directory
 collect2: error: ld returned 1 exit status
